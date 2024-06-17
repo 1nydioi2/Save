@@ -1,0 +1,7 @@
+a.out
+*.o
+*.txt
+main.c
+gnlTester
+Moumounator_gnl
+ft_*

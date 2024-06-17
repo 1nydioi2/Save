@@ -1,0 +1,8 @@
+*.o
+*.a*
+.*.sw*
+Moumounator*
+tripouille
+warmachine
+.env
+a.out
